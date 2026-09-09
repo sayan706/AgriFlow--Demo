@@ -2,6 +2,7 @@ import React, { useEffect, useRef, useLayoutEffect } from 'react';
 import { NavLink, useLocation } from 'react-router-dom';
 import { LayoutDashboard, Leaf, Cpu, Package, Truck, BarChart, Settings, LogOut } from 'lucide-react';
 import gsap from 'gsap';
+import logoImg from '../../assets/images/logo.png';
 
 const Sidebar = ({ isMobileOpen, toggleMobileSidebar }) => {
   const location = useLocation();
@@ -47,7 +48,7 @@ const Sidebar = ({ isMobileOpen, toggleMobileSidebar }) => {
       <div className={`sidebar-overlay ${isMobileOpen ? 'active' : ''}`} onClick={toggleMobileSidebar}></div>
       <nav ref={sidebarRef} className={`sidebar ${isMobileOpen ? 'open' : ''}`}>
         <div className="logo">
-          <img src="/src/assets/images/logo.png" alt="AgriFlow Logo" style={{ borderRadius: '8px', width: '100%', maxWidth: '80px', maxHeight: '80px', objectFit: 'contain' }} />
+          <img src={logoImg} alt="AgriFlow Logo" style={{ borderRadius: '8px', width: '100%', maxWidth: '80px', maxHeight: '80px', objectFit: 'contain' }} />
           <div className="logo-text" style={{ marginTop: '10px' }}>
             <div className="logo-title">AgriFlow</div>
             <div className="logo-subtitle">Smart Farming</div>

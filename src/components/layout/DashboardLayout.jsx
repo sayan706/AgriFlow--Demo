@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 import Sidebar from './Sidebar';
 import Header from './Header';
 import { Menu } from 'lucide-react';
+import logoImg from '../../assets/images/logo.png';
 
 const DashboardLayout = ({ children, title, subtitle }) => {
   const [isMobileOpen, setIsMobileOpen] = useState(false);
@@ -19,7 +20,7 @@ const DashboardLayout = ({ children, title, subtitle }) => {
           {/* Mobile Navbar */}
           <div className="mobile-top-navbar">
             <div className="mobile-logo">
-              <img src="/src/assets/images/logo.png" alt="AgriFlow Logo" />
+              <img src={logoImg} alt="AgriFlow Logo" />
               <div className="logo-text">
                 <div className="logo-title">AgriFlow</div>
               </div>
