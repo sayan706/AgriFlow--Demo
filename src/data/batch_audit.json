@@ -1,0 +1,30 @@
+{
+  "title": "Batch Audit & Dispatch",
+  "subtitle": "Batch In Review: #ON-2024-B3B-889",
+  "metrics": {
+    "transit": {
+      "value": 48,
+      "unit": "h",
+      "target": "Cold Transit",
+      "status": "Western Regional Hub"
+    },
+    "compliance": {
+      "value": 100,
+      "unit": "%",
+      "target": "USDA Class 1",
+      "status": "VERIFIED"
+    },
+    "temperature": {
+      "value": 2.4,
+      "unit": "°C",
+      "target": "Core Temp",
+      "status": "STABLE"
+    },
+    "dispatch": {
+      "value": "READY",
+      "unit": "",
+      "target": "Dock 4",
+      "status": "AWAITING CARRIER"
+    }
+  }
+}

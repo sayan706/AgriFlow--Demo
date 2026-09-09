@@ -1,0 +1,12 @@
+{
+  "et": 4.7,
+  "forecast": [
+    { "day": "Thu", "temp": 31, "humidity": 74, "rainProb": 68, "condition": "rain" },
+    { "day": "Fri", "temp": 32, "humidity": 20, "rainProb": 20, "condition": "cloudy" },
+    { "day": "Sat", "temp": 30, "humidity": 10, "rainProb": 10, "condition": "sunny" },
+    { "day": "Sun", "temp": 29, "humidity": 65, "rainProb": 65, "condition": "rain" },
+    { "day": "Mon", "temp": 31, "humidity": 40, "rainProb": 40, "condition": "cloudy" },
+    { "day": "Tue", "temp": 33, "humidity": 5, "rainProb": 5, "condition": "sunny" },
+    { "day": "Wed", "temp": 32, "humidity": 15, "rainProb": 15, "condition": "sunny" }
+  ]
+}

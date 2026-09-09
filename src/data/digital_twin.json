@@ -1,0 +1,29 @@
+{
+  "title": "Main Optical Grading & High-Speed Sorting Twin",
+  "subtitle": "Batch: #ON-2024-B3B-889 • Block 3B Salinas Valley",
+  "metrics": {
+    "speed": {
+      "value": 1.85,
+      "unit": "m/s",
+      "target": "TARGET: 1.80 - 2.00 m/s",
+      "status": "SERVO SYNCED"
+    },
+    "load": {
+      "value": 14.8,
+      "unit": "Tons/Hr",
+      "target": "TARGET: 15.0 T/HR",
+      "occupancy": "84%"
+    },
+    "climate": {
+      "temp": "16.4°C",
+      "humidity": "62%",
+      "dew": "9.1°C",
+      "status": "NO CONDENSATION"
+    },
+    "ventilation": {
+      "risk": "12%",
+      "status": "LOW RISK",
+      "cfm": "85% CFM"
+    }
+  }
+}

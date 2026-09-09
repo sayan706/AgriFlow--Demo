@@ -1,0 +1,32 @@
+{
+  "title": "Field Diagnostics",
+  "subtitle": "Block 3B Salinas Valley • Allium cepa (Red Bulb Extra-Crisp)",
+  "metrics": {
+    "moisture": {
+      "value": 68.4,
+      "unit": "%",
+      "target": "TARGET 65-72%",
+      "variance": "+1.8% CAPILLARY"
+    },
+    "npk": {
+      "value": 88.2,
+      "status": "N ELEVATED",
+      "details": {
+        "n": 142,
+        "p": 58,
+        "k": 185
+      }
+    },
+    "weather": {
+      "prob": 85,
+      "time": "T-MINUS 18H",
+      "accum": "18.5 mm Front",
+      "pressure": "1008 hPa"
+    },
+    "irrigation": {
+      "status": "ON HOLD",
+      "message": "Rain Delay Active (24h)",
+      "savings": "14,200 L CONSERVED"
+    }
+  }
+}

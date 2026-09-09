@@ -1,0 +1,9 @@
+{
+  "farmName": "AgriFlow Model Farm",
+  "blocks": [
+    { "id": "1A", "name": "Block 1A", "crop": "Wheat" },
+    { "id": "1B", "name": "Block 1B", "crop": "Wheat" },
+    { "id": "2A", "name": "Block 2A", "crop": "Corn" },
+    { "id": "3B", "name": "Block 3B", "crop": "Soybean" }
+  ]
+}

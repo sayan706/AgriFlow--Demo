@@ -1,0 +1,30 @@
+{
+  "title": "Packaging & Metrology Hub",
+  "subtitle": "Active SKU: Grade A Red Onions • 1.00 kg Retail Net Pack",
+  "metrics": {
+    "weight": {
+      "value": 1.02,
+      "unit": "kg",
+      "target": "TARGET: 1.00 kg",
+      "status": "+20g GIVEAWAY"
+    },
+    "speed": {
+      "value": 42,
+      "unit": "Units/Min",
+      "target": "TARGET: 45 U/M",
+      "efficiency": "93%"
+    },
+    "rejects": {
+      "value": 1.4,
+      "unit": "%",
+      "target": "LIMIT: 2.0%",
+      "status": "UNDER LIMIT"
+    },
+    "compliance": {
+      "value": "100",
+      "unit": "%",
+      "target": "LEGAL METROLOGY",
+      "status": "CERTIFIED PASS"
+    }
+  }
+}

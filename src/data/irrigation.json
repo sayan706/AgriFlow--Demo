@@ -1,0 +1,8 @@
+{
+  "status": "HOLD",
+  "title": "MOISTURE LOW",
+  "reason": "Moisture low, but 85% rain forecasted in 24 hrs.",
+  "decision": "Irrigation On Hold.",
+  "recommendedPulseLiters": 1500,
+  "recommendedPulseMins": 45
+}

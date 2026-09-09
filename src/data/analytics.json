@@ -1,0 +1,30 @@
+{
+  "title": "Centralized Analytics Hub",
+  "subtitle": "Macro-Level Farm Performance",
+  "metrics": {
+    "yield": {
+      "value": 142.5,
+      "unit": "Tons",
+      "target": "YTD Harvest",
+      "status": "+12% YoY"
+    },
+    "water": {
+      "value": 84,
+      "unit": "ML",
+      "target": "Water Consumed",
+      "efficiency": "18% Savings"
+    },
+    "energy": {
+      "value": 4.2,
+      "unit": "MWh",
+      "target": "Energy Used",
+      "status": "Green Mix 80%"
+    },
+    "revenue": {
+      "value": "₹1.2",
+      "unit": "M",
+      "target": "Est. Value",
+      "status": "Market Premium"
+    }
+  }
+}

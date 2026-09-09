@@ -1,0 +1,49 @@
+{
+  "updatedAt": "2026-09-10T00:30:00Z",
+  "probes": [
+    {
+      "id": "PROBE-001",
+      "block": "1A",
+      "nitrogen": 61,
+      "phosphorus": 52,
+      "potassium": 70,
+      "moisture": 44,
+      "ph": 6.4,
+      "soilTemp": 28.5,
+      "status": "online"
+    },
+    {
+      "id": "PROBE-002",
+      "block": "1B",
+      "nitrogen": 68,
+      "phosphorus": 49,
+      "potassium": 55,
+      "moisture": 37,
+      "ph": 6.2,
+      "soilTemp": 29.1,
+      "status": "online"
+    },
+    {
+      "id": "PROBE-003",
+      "block": "3B",
+      "nitrogen": 81,
+      "phosphorus": 39,
+      "potassium": 31,
+      "moisture": 29,
+      "ph": 5.8,
+      "soilTemp": 31.2,
+      "status": "online"
+    },
+    {
+      "id": "PROBE-004",
+      "block": "2A",
+      "nitrogen": 58,
+      "phosphorus": 62,
+      "potassium": 72,
+      "moisture": 48,
+      "ph": 6.7,
+      "soilTemp": 27.8,
+      "status": "online"
+    }
+  ]
+}

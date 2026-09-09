@@ -1,0 +1,10 @@
+{
+  "moistureAverage": 42.8,
+  "moistureStatus": "Optimal",
+  "npkHealthIndex": 78,
+  "npkStatus": "Good",
+  "rainProbability7Day": 68,
+  "rainProbabilityStatus": "Moderate",
+  "irrigationStatus": "ON HOLD",
+  "irrigationMessage": "Rain protection mode"
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "ADV-001",
+    "severity": "critical",
+    "title": "High Nitrogen Alert",
+    "message": "Pause N application. High risk of soft neck & rot during storage.",
+    "block": "2A",
+    "timestamp": "10 mins ago"
+  },
+  {
+    "id": "ADV-002",
+    "severity": "warning",
+    "title": "Low Potassium Alert",
+    "message": "Apply Potash dosage (15 kg/ha) to increase skin thickness.",
+    "block": "3B",
+    "timestamp": "2 hours ago"
+  },
+  {
+    "id": "ADV-003",
+    "severity": "info",
+    "title": "pH Correction",
+    "message": "Acidification detected. Recommend lime application.",
+    "block": "1B",
+    "timestamp": "1 day ago"
+  }
+]
